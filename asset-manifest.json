@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hw-18-20---ReactJS.-SPA/static/css/main.abf6ad6f.css",
+    "main.js": "/hw-18-20---ReactJS.-SPA/static/js/main.0dad516a.js",
+    "static/js/787.4fd71a10.chunk.js": "/hw-18-20---ReactJS.-SPA/static/js/787.4fd71a10.chunk.js",
+    "static/media/8.png": "/hw-18-20---ReactJS.-SPA/static/media/8.442b7fbf8abb127fa1ef.png",
+    "static/media/7.png": "/hw-18-20---ReactJS.-SPA/static/media/7.1eae9a17504d67c9fe34.png",
+    "static/media/5.png": "/hw-18-20---ReactJS.-SPA/static/media/5.299ffe265cdb4ed6417d.png",
+    "static/media/bg.jpg": "/hw-18-20---ReactJS.-SPA/static/media/bg.a89b84bd9bb8a10dde97.jpg",
+    "static/media/6.jpeg": "/hw-18-20---ReactJS.-SPA/static/media/6.18602350c44a97a79e0f.jpeg",
+    "static/media/1.png": "/hw-18-20---ReactJS.-SPA/static/media/1.b4eba3b424ea9b6f6ca6.png",
+    "static/media/2.png": "/hw-18-20---ReactJS.-SPA/static/media/2.0bfb102db585df3f6183.png",
+    "static/media/3.png": "/hw-18-20---ReactJS.-SPA/static/media/3.92d3621d378d420d85ed.png",
+    "static/media/9.jpg": "/hw-18-20---ReactJS.-SPA/static/media/9.ee2bb4db41a93ff042c3.jpg",
+    "static/media/4.png": "/hw-18-20---ReactJS.-SPA/static/media/4.32b7ed11e321988f604a.png",
+    "static/media/960x0.jpg": "/hw-18-20---ReactJS.-SPA/static/media/960x0.19025a32080d802c43ff.jpg",
+    "index.html": "/hw-18-20---ReactJS.-SPA/index.html",
+    "main.abf6ad6f.css.map": "/hw-18-20---ReactJS.-SPA/static/css/main.abf6ad6f.css.map",
+    "main.0dad516a.js.map": "/hw-18-20---ReactJS.-SPA/static/js/main.0dad516a.js.map",
+    "787.4fd71a10.chunk.js.map": "/hw-18-20---ReactJS.-SPA/static/js/787.4fd71a10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf6ad6f.css",
+    "static/js/main.0dad516a.js"
+  ]
+}
