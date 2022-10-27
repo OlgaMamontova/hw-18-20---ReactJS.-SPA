@@ -1,0 +1,48 @@
+.contacts{
+    min-height: 710px;
+      margin: 30px auto;
+      background-color: black;
+      color: #fff;
+      padding: 20px;
+      box-sizing: border-box;
+      text-align: center;
+  }
+  .contacts a{
+    color: #fff;
+    text-decoration: none;
+  }
+  .contacts a:hover{
+    opacity: 0.5;
+  }
+  .contacts input{
+    width: 360px;
+    border: none;
+    border-radius: 5px;
+    background-color: #1c1c1e;
+      height: 30px;
+      color: #fff;
+      padding: 0 10px;
+      box-sizing: border-box;
+      margin-bottom: 20px;
+  }
+  .contact{
+    border-top: 1px solid #1c1c1e;
+    width: 360px;
+    margin: auto;
+  }
+  .number{
+    opacity: 0.6;
+  }
+  .contactInfo{
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+  .contactInfo button{
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+    border: none;
+    background-color: #FBF320;
+  }
